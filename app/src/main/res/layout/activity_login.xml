@@ -12,7 +12,7 @@
         android:paddingLeft="24dp"
         android:paddingRight="24dp">
 
-        <ImageView android:src="@android:drawable/btn_star"
+        <ImageView android:src="@drawable/reidha_logo"
             android:contentDescription="@string/logos"
             android:layout_width="wrap_content"
             android:layout_height="72dp"
