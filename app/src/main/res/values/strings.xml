@@ -3,6 +3,12 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
-    <string name="logos">Logos</string>
+    <string name="logo">Logo</string>
     <string name="register">No account yet? Create one</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="tel">Mobile Number</string>
+    <string name="retypepass">Re-enter Password</string>
+    <string name="loginlink">Already a member? Login</string>
+    <string name="create">Create account</string>
 </resources>
