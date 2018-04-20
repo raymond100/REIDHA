@@ -11,4 +11,6 @@
     <string name="retypepass">Re-enter Password</string>
     <string name="loginlink">Already a member? Login</string>
     <string name="create">Create account</string>
+    <string name="loading">Loading…</string>
+    <string name="auth_failed">Authentication failed</string>
 </resources>
