@@ -24,7 +24,7 @@ public class LoginActivity extends BaseActivity implements
         View.OnClickListener {
 
     private static final String TAG = "EmailPassword";
-
+//
     
     private EditText mEmailField;
     private EditText mPasswordField;
