@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528557444361",
+    "firebase_url": "https://reidha-12034.firebaseio.com",
+    "project_id": "reidha-12034",
+    "storage_bucket": "reidha-12034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528557444361:android:2d64a398e256337e",
+        "android_client_info": {
+          "package_name": "com.ray100.reidha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528557444361-3atvlpstrj1k2btju2n484hsem6ntopo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray100.reidha",
+            "certificate_hash": "7109b2deb3dedf250672771867449a44991fe921"
+          }
+        },
+        {
+          "client_id": "528557444361-ogc494oalpjfe8h6emaj66ce963io4c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwP2-VzvWD9e_hFLrLjpGDkv0UM1B0Ckc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528557444361-ogc494oalpjfe8h6emaj66ce963io4c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
