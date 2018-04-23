@@ -3,7 +3,7 @@
     <!-- Base application color. -->
     <color name="colorPrimary">#E43F3F</color>
     <color name="colorPrimaryDark">#E12929</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#E43F3F</color>
 
     <!-- Custom application color. -->
     <color name="primary">#E43F3F</color>

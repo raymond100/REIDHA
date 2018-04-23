@@ -6,11 +6,29 @@
     <string name="logo">Logo</string>
     <string name="register">No account yet? Create one</string>
     <string name="name">Name</string>
-    <string name="address">Address</string>
+    <string name="address">Addresse</string>
     <string name="tel">Mobile Number</string>
     <string name="retypepass">Re-enter Password</string>
     <string name="loginlink">Already a member? Login</string>
     <string name="create">Create account</string>
     <string name="loading">Loading…</string>
+    <string name="save">Save</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="cin">Cin</string>
+    <string name="birth">Date de Naissance </string>
+    <string name="sex">Sex</string>
     <string name="auth_failed">Authentication failed</string>
+
+    <string-array name="sex">
+        <item>Masculin</item>
+        <item>Féminin</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="situation">
+        <item>Célibataire</item>
+        <item>Marié</item>
+        <item>Divorcé</item>
+    </string-array>
 </resources>
